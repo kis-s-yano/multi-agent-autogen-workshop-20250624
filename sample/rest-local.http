@@ -1,0 +1,15 @@
+### Chat
+
+POST http://localhost:7071/api/chat
+
+{
+    "task": "東京からニューヨークまでの交通費を調べて"
+}
+
+### Chat
+
+POST http://localhost:7071/api/chat
+
+{
+    "task": "出発地は東京で、目的地は長野市で10月5日から3泊で出張計画を立ててください"
+}

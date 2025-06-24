@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "SCM_DO_BUILD_DURING_DEPLOYMENT": "true",
+    "ENABLE_ORYX_BUILD": "true",
+    "PYTHON_ISOLATE_WORKER_DEPENDENCIES": "1",
+    "PYTHON_ENABLE_INIT_INDEXING": "true",
+    "AOAI_ENDPOINT": "https://ais-zen-autogen-workshop-dev-eastus2.openai.azure.com",
+    "AIF_API_KEY": "7XrQIt7o7oQSbqjTxHRAtlWaqGSXRICly1Rt8loSs0p9NdAX9VymJQQJ99BFACHYHv6XJ3w3AAAAACOG4xDS",
+    "AIF_API_VERSION": "2025-04-01-preview",
+    "AIF_DEPLOYMENT_CHAT_MODEL": "gpt-4.1-2025-04-14",
+    "AIF_DEPLOYMENT_CHAT": "gpt-4.1",
+    "COMPANY_RULES_RAG_ENDPOINT": "https://func-company-policy-rag-sample.azurewebsites.net/api/chat?code=_1alQ_edzwAhnkFKgIrXcoYNfIaGFC1l2MkAQnVUW_7IAzFuRdNVQQ=="
+  }
+}
