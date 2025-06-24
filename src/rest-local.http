@@ -11,5 +11,12 @@ POST http://localhost:7071/api/chat
 POST http://localhost:7071/api/chat
 
 {
-    "task": "出発地は東京で、目的地は長野市で10月5日から3泊で出張計画を立ててください"
+    "task": "出発地は熊本県で、目的地は東京のMicrosoft品川オフィスで2025/7/1から3泊で出張計画を立ててください"
+}
+
+### chat
+POST http://localhost:7071/api/chat
+
+{
+    "task": "私は正社員です。出発地は東京で、目的地は名古屋市で3月5日から3泊で出張計画を立ててください"
 }
